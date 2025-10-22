@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Byungkyu Kang
 
 I'm a **Software Developer** at **Gainwell Technologies**, where I develop and enhance core modules for the **Puerto Rico Medicaid/Medicare system** using **C programming** and **Oracle SQL**.  
