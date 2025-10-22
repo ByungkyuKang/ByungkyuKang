@@ -11,7 +11,10 @@ I'm passionate about **system performance optimization**, **secure coding**, and
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -20,8 +23,19 @@ I'm passionate about **system performance optimization**, **secure coding**, and
 ## 🚀 Currently Learning
 
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🤖 **Machine Learning with Python (scikit-learn, pandas, numpy)**
-- 🧩 **Data processing and automation tools**
+- 🤖 **Machine Learning with Python (scikit-learn, pandas, NumPy)**
+- 🔄 **Data processing and automation tolls**
+
+---
+
+## 🧩 Featured Projects
+
+Here are some of the projects I’m currently working on:
+
+- 🎯 [**ML_Portfolio**](https://github.com/ByungkyuKang/ML_Portfolio) — Machine Learning study & hands-on practice projects  
+- 🧠 [**Personal_Projects**](https://github.com/ByungkyuKang/Personal_Projects) — Python-based automation, data processing, and experimentation  
+
+> 🔗 Explore more on my GitHub profile: [github.com/ByungkyuKang](https://github.com/ByungkyuKang)
 
 ---
 
@@ -29,7 +43,7 @@ I'm passionate about **system performance optimization**, **secure coding**, and
 
 - 💡 9 years of experience in **software development and database optimization**  
 - ⚙️ Skilled in **C programming, SQL query optimization, and debugging in Linux environments**  
-- 🔍 Experienced with **GIT-based CI/CD workflows** and **Agile development**  
+- 🔍 Experienced with **GIT-based CI/CD workflows (Azure DevOps)** and **Agile development**  
 - 🧩 Strong problem solver and fast learner who consistently delivers on time  
 
 ---
@@ -37,20 +51,5 @@ I'm passionate about **system performance optimization**, **secure coding**, and
 ## 📫 Contact
 
 - ✉️ **Email:** [byungkyukang702@gmail.com](mailto:byungkyukang702@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn URL](http://www.linkedin.com/in/byungkyukang)  
-- 🌎 **Location:** United States  
-
-<!--
-**ByungkyuKang/ByungkyuKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **LinkedIn:** [http://www.linkedin.com/in/byungkyukang](http://www.linkedin.com/in/byungkyukang)
+- 🌎 **GitHub:** [github.com/ByungkyuKang](https://github.com/ByungkyuKang)
