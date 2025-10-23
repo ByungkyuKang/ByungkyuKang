@@ -24,7 +24,7 @@ I'm passionate about **system performance optimization**, **secure coding**, and
 
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 **Machine Learning with Python (scikit-learn, pandas, NumPy)**
-- 🔄 **Data processing and automation tolls**
+- 🔄 **Data processing and automation tools**
 
 ---
 
@@ -32,8 +32,9 @@ I'm passionate about **system performance optimization**, **secure coding**, and
 
 Here are some of the projects I’m currently working on:
 
-- 🎯 [**ML_Portfolio**](https://github.com/ByungkyuKang/ML_Portfolio) — Machine Learning study & hands-on practice projects  
-- 🧠 [**Personal_Projects**](https://github.com/ByungkyuKang/Personal_Projects) — Python-based automation, data processing, and experimentation  
+- 🎯 [**Portfolio**](https://github.com/ByungkyuKang/Portfolio) — Machine Learning study & hands-on practice projects (Python)
+- 🧠 [**Personal_Projects**](https://github.com/ByungkyuKang/Portfolio/Personal_Projects) — Python-based automation, data processing, and experimentation
+- 🧠 [**Certifications&Badges**](https://github.com/ByungkyuKang/Portfolio/Certifications&Badges) - Certifications, Certificates, and Badges
 
 > 🔗 Explore more on my GitHub profile: [github.com/ByungkyuKang](https://github.com/ByungkyuKang)
 
