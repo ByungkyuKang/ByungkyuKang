@@ -32,9 +32,8 @@ I'm passionate about **system performance optimization**, **secure coding**, and
 
 Here are some of the projects I’m currently working on:
 
-- 🎯 [**Portfolio**](https://github.com/ByungkyuKang/Portfolio) — Machine Learning study & hands-on practice projects (Python)
-- 🧠 [**Personal_Projects**](https://github.com/ByungkyuKang/Portfolio/Personal_Projects) — Python-based automation, data processing, and experimentation
-- 🧠 [**Certifications&Badges**](https://github.com/ByungkyuKang/Portfolio/Certifications&Badges) - Certifications, Certificates, and Badges
+- 🎯 [**Portfolio**](https://github.com/ByungkyuKang/Portfolio)
+    — 💡 Portfolio includes Machine Learning study, Python/ML hands-on practice projects, and Certifications, Certificates, and badges.
 
 > 🔗 Explore more on my GitHub profile: [github.com/ByungkyuKang](https://github.com/ByungkyuKang)
 
